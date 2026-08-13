@@ -1,0 +1,442 @@
+{
+  "items": [
+    {
+      "description": "| homepage | talk | paper |",
+      "items": [],
+      "title": "TFX - TensorFlow Extended (Google)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | documentation | blog | talk | slices |",
+      "items": [],
+      "title": "Kubeflow - The Machine Learning Toolkit for Kubernetes (Google)"
+    },
+    {
+      "description": "| homepage | blog | github |",
+      "items": [],
+      "title": "RAPIDS - Open GPU Data Science (NVIDIA)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| blog | use-cases |",
+      "items": [],
+      "title": "Michelangelo - Uber's Machine Learning Platform (Uber)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| blog |",
+      "items": [],
+      "title": "COTA: Improving Uber Customer Care with NLP & Machine Learning (Uber)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| blog | slices | talk |",
+      "items": [],
+      "title": "FBLearner (Facebook)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| paper |",
+      "items": [],
+      "title": "Alchemist (Apple)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| blog | github |",
+      "items": [],
+      "title": "FfDL - Fabric for Deep Learning (IBM)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| blog | code |",
+      "items": [],
+      "title": "BigDL - Distributed Deep Learning Library for Apache Spark (Intel)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| blog | talk |",
+      "items": [],
+      "title": "SageMaker (Amazon Web Service)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | documentation | blog |",
+      "items": [],
+      "title": "TransmogrifAI (Salesforce)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github |",
+      "items": [],
+      "title": "NNI - Neural Network Intelligence (Microsoft)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | paper |",
+      "items": [],
+      "title": "Auto-Keras"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | documentation | blog |",
+      "items": [],
+      "title": "MLFlow (Databricks)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| h2o | h2o4gpu |",
+      "items": [],
+      "title": "H2O - Open Source, Distributed Machine Learning for Everyone"
+    },
+    {
+      "description": "| homepage | github | blog | design overview | paper |",
+      "items": [],
+      "title": "Project Ray (RISELab)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| github | documentation | paper |",
+      "items": [],
+      "title": "Angel (Tencent)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | documentation | resources |",
+      "items": [],
+      "title": "CoreML (Apple)"
+    },
+    {
+      "description": "| homepage | blog |",
+      "items": [],
+      "title": "TensorFlow Lite (Google)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | blog | documentation | benchmark |",
+      "items": [],
+      "title": "TensorRT (NVIDIA)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| blog |",
+      "items": [],
+      "title": "Greengrass (Amazon)"
+    },
+    {
+      "description": "| homepage | github | documentation |",
+      "items": [],
+      "title": "GraphPipe (Oracle)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | documentation | blog | talk |",
+      "items": [],
+      "title": "TensorFlow XLA (Accelerated Linear Algebra) (Google)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compilation Process:"
+    },
+    {
+      "description": "| homepage | github | design overview | tech deep dive |",
+      "items": [],
+      "title": "Swift for TensorFlow"
+    },
+    {
+      "description": "Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems):\n| homepage | github | paper1 | paper2 | paper3 |",
+      "items": [],
+      "title": "Compiler:"
+    },
+    {
+      "description": "| github |",
+      "items": [],
+      "title": "JAX - Autograd and XLA (Google)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How It Works:"
+    },
+    {
+      "description": "| homepage | github |",
+      "items": [],
+      "title": "PocketFlow (Tencent)"
+    },
+    {
+      "description": "| homepage | github | documentation | paper |",
+      "items": [],
+      "title": "TVM - End to End Deep Learning Compiler Stack (Amazon)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | blog |",
+      "items": [],
+      "title": "SageMaker Neo (Amazon)"
+    },
+    {
+      "description": "| homepage | github | paper | blog |",
+      "items": [],
+      "title": "Tensor Comprehensions (Facebook)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | paper | blog |",
+      "items": [],
+      "title": "Glow - A community-driven approach to AI infrastructure (Facebook)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | documentation | github | paper |",
+      "items": [],
+      "title": "nGraph - A New Open Source Compiler for Deep Learning Systems (Intel)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | documentation | github |",
+      "items": [],
+      "title": "ONNX - Open Neural Network Exchange"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | talk | slices |",
+      "items": [],
+      "title": "MLIR - \"Multi-Level Intermediate Representation\" Compiler Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| homepage | github | documentation |",
+      "items": [],
+      "title": "Neural Network Distiller (Intel)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workflow:"
+    },
+    {
+      "description": "| github | documentation |",
+      "items": [],
+      "title": "MACE - Mobile AI Compute Engine (XiaoMi)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| paper |",
+      "items": [],
+      "title": "AMC - AutoML for Model Compression engine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Architecture:"
+    },
+    {
+      "description": "| link | github | materials |",
+      "items": [],
+      "title": "CSE 599W Systems for ML (University of Washington)"
+    },
+    {
+      "description": "| link | github | materials |",
+      "items": [],
+      "title": "CSCE 790: Machine Learning Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SysML - Conference on Systems and Machine Learning @ Stanford"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ML Systems Workshop @ NeurIPS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ScaledML - Scaling ML models, data, algorithms & infrastructure"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey / Reviews"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A Survey on Compiler Autotuning using Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A Survey of Model Compression and Acceleration for Deep Neural Networks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Large-Scale / Distributed Learning"
+    },
+    {
+      "description": "Major milestones for \"ImageNet in X nanoseconds\" :roller_coaster:.",
+      "items": [],
+      "title": "Milestones"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Federated Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Federated Learning: Strategies for Improving Communication Efficiency"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Practical Secure Aggregation for Privacy-Preserving Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Federated Multi-Task Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protection Against Reconstruction and Its Applications in Private Federated Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Differentially Private Distributed Learning for Language Modeling Tasks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Differentially Private Federated Learning: A Client Level Perspective"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Federated Learning for Mobile Keyboard Prediction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A Generic Framework for Privacy Preserving Deep Learning"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:23.665Z",
+    "original_repository": "1duo/awesome-ai-infrastructures",
+    "original_repository_sha": "9abd3dc94978d2b1954be3f47e71d98fa5c04f7e",
+    "enhanced_repository": "enhansome/enhansome-ai-infrastructures",
+    "enhanced_repository_description": null,
+    "title": "Awesome Introduction with stars"
+  }
+}
