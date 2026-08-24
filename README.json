@@ -1,7 +1,539 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | documentation | blog | talk | slices |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112647343,
+                "language": null,
+                "last_commit": "2026-08-21T18:25:34Z",
+                "owner": "kubeflow",
+                "repo": "kubeflow",
+                "stars": 15827
+              }
+            }
+          ],
+          "description": "The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Our goal is not to recreate other services, but to provide a straightforward way to deploy best-of-breed open-source systems for ML to diverse infrastructures. Anywhere you are running Kubernetes, you should be able to run Kubeflow.\nKubeflow started as an open sourcing of the way Google ran TensorFlow internally, based on a pipeline called TensorFlow Extended.",
+          "node_type": "group",
+          "title": "Kubeflow - The Machine Learning Toolkit for Kubernetes (Google)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| blog",
+              "description": "github |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 120658002,
+                "language": "Go",
+                "last_commit": "2026-01-29T17:14:34Z",
+                "owner": "IBM",
+                "repo": "FfDL",
+                "stars": 691
+              }
+            }
+          ],
+          "description": "Deep learning frameworks such as TensorFlow, PyTorch, Caffe, Torch, Theano, and MXNet have contributed to the popularity of deep learning by reducing the effort and skills needed to design, train, and use deep learning models. Fabric for Deep Learning (FfDL, pronounced “fiddle”) provides a consistent way to run these deep-learning frameworks as a service on Kubernetes.",
+          "node_type": "group",
+          "title": "FfDL - Fabric for Deep Learning (IBM)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| blog",
+              "description": "code |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66823715,
+                "language": "Python",
+                "last_commit": "2026-01-28T17:32:40Z",
+                "owner": "intel",
+                "repo": "ipex-llm",
+                "stars": 8860
+              }
+            }
+          ],
+          "description": "BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters. To makes it easy to build Spark and BigDL applications, a high level Analytics Zoo is provided for end-to-end analytics + AI pipelines.",
+          "node_type": "group",
+          "title": "BigDL - Distributed Deep Learning Library for Apache Spark (Intel)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | documentation | blog |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109289451,
+                "language": "Scala",
+                "last_commit": "2026-06-02T18:03:07Z",
+                "owner": "salesforce",
+                "repo": "TransmogrifAI",
+                "stars": 2276
+              }
+            }
+          ],
+          "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark. It was developed with a focus on enhancing machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity and reuse.",
+          "node_type": "group",
+          "title": "TransmogrifAI (Salesforce)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135673451,
+                "language": "Python",
+                "last_commit": "2024-07-03T10:55:10Z",
+                "owner": "microsoft",
+                "repo": "nni",
+                "stars": 14362
+              }
+            }
+          ],
+          "description": "NNI (Neural Network Intelligence) is a toolkit to help users run automated machine learning (AutoML) experiments. The tool dispatches and runs trial jobs generated by tuning algorithms to search the best neural architecture and/or hyper-parameters in different environments like local machine, remote servers and cloud.",
+          "node_type": "group",
+          "title": "NNI - Neural Network Intelligence (Microsoft)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | paper |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111340129,
+                "language": "Python",
+                "last_commit": "2025-11-25T02:26:35Z",
+                "owner": "keras-team",
+                "repo": "autokeras",
+                "stars": 9326
+              }
+            }
+          ],
+          "description": "Auto-Keras is an open source software library for automated machine learning (AutoML). It is developed by DATA Lab at Texas A&M University and community contributors. The ultimate goal of AutoML is to provide easily accessible deep learning tools to domain experts with limited data science or machine learning background. Auto-Keras provides functions to automatically search for architecture and hyperparameters of deep learning models.",
+          "node_type": "group",
+          "title": "Auto-Keras"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | documentation | blog |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136202695,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:12:03Z",
+                "owner": "mlflow",
+                "repo": "mlflow",
+                "stars": 27649
+              }
+            }
+          ],
+          "description": "MLflow is an open source platform for managing the end-to-end machine learning lifecycle.",
+          "node_type": "group",
+          "title": "MLFlow (Databricks)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | blog | design overview | paper |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71932349,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:25:44Z",
+                "owner": "ray-project",
+                "repo": "ray",
+                "stars": 43598
+              }
+            }
+          ],
+          "description": "Ray is a high-performance distributed execution framework targeted at large-scale machine learning and reinforcement learning applications. It achieves scalability and fault tolerance by abstracting the control state of the system in a global control store and keeping all other components stateless. It uses a shared-memory distributed object store to efficiently handle large data through shared memory, and it uses a bottom-up hierarchical scheduling architecture to achieve low-latency and high-throughput scheduling. It uses a lightweight API based on dynamic task graphs and actors to express a wide range of applications in a flexible manner.",
+          "node_type": "group",
+          "title": "Project Ray (RISELab)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| github",
+              "description": "documentation | paper |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89322848,
+                "language": "Java",
+                "last_commit": "2026-07-26T06:10:31Z",
+                "owner": "Angel-ML",
+                "repo": "angel",
+                "stars": 6786
+              }
+            }
+          ],
+          "description": "Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server. It is tuned for performance with big data from Tencent and has a wide range of applicability and stability, demonstrating increasing advantage in handling higher dimension model. Angel is jointly developed by Tencent and Peking University, taking account of both high availability in industry and innovation in academia.\nWith model-centered core design concept, Angel partitions parameters of complex models into multiple parameter-server nodes, and implements a variety of machine learning algorithms using efficient model-updating interfaces and functions, as well as flexible consistency model for synchronization. Angel is developed with Java and Scala. It supports running on Yarn. With PS Service abstraction, it supports Spark on Angel.",
+          "node_type": "group",
+          "title": "Angel (Tencent)"
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | documentation |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 138919118,
+                "language": "Makefile",
+                "last_commit": "2018-10-16T22:55:22Z",
+                "owner": "oracle",
+                "repo": "graphpipe",
+                "stars": 714
+              }
+            }
+          ],
+          "description": "GraphPipe is a protocol and collection of software designed to simplify machine learning model deployment and decouple it from framework-specific model implementations.",
+          "node_type": "group",
+          "title": "GraphPipe (Oracle)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | documentation | blog | talk |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45717250,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:22:47Z",
+                "owner": "tensorflow",
+                "repo": "tensorflow",
+                "stars": 197385
+              }
+            }
+          ],
+          "description": "XLA (Accelerated Linear Algebra) is a domain-specific compiler for linear algebra that optimizes TensorFlow computations. The results are improvements in speed, memory usage, and portability on server and mobile platforms.\nImprove execution speed. Compile subgraphs to reduce the execution time of short-lived Ops to eliminate overhead from the TensorFlow runtime, fuse pipelined operations to reduce memory overhead, and specialize to known tensor shapes to allow for more aggressive constant propagation.\nImprove memory usage. Analyze and schedule memory usage, in principle eliminating many intermediate storage buffers.\nReduce reliance on custom Ops. Remove the need for many custom Ops by improving the performance of automatically fused low-level Ops to match the performance of custom Ops that were fused by hand.\nReduce mobile footprint. Eliminate the TensorFlow runtime by ahead-of-time compiling the subgraph and emitting an object/header file pair that can be linked directly into another application. The results can reduce the footprint for mobile inference by several orders of magnitude.\nImprove portability. Make it relatively easy to write a new backend for novel hardware, at which point a large fraction of TensorFlow programs will run unmodified on that hardware. This is in contrast with the approach of specializing individual monolithic Ops for new hardware, which requires TensorFlow programs to be rewritten to make use of those Ops.",
+          "node_type": "group",
+          "title": "TensorFlow XLA (Accelerated Linear Algebra) (Google)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | design overview | tech deep dive |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 130902948,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-01-12T19:55:30Z",
+                "owner": "tensorflow",
+                "repo": "swift",
+                "stars": 6121
+              }
+            }
+          ],
+          "description": "Swift for TensorFlow is a new way to develop machine learning models. It gives you the power of TensorFlow directly integrated into the Swift programming language. With Swift, you can write the following imperative code, and Swift automatically turns it into a single TensorFlow Graph and runs it with the full performance of TensorFlow Sessions on CPU, GPU and TPU.\nSwift combines the flexibility of Eager Execution with the high performance of Graphs and Sessions. Behind the scenes, Swift analyzes your Tensor code and automatically builds graphs for you. Swift also catches type errors and shape mismatches before running your code, and has Automatic Differentiation built right in. We believe that machine learning tools are so important that they deserve a first-class language and a compiler.",
+          "node_type": "group",
+          "title": "Swift for TensorFlow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154739597,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:16:09Z",
+                "owner": "jax-ml",
+                "repo": "jax",
+                "stars": 36209
+              }
+            }
+          ],
+          "description": "JAX is Autograd and XLA, brought together for high-performance machine learning research. With its updated version of Autograd, JAX can automatically differentiate native Python and NumPy functions. It can differentiate through loops, branches, recursion, and closures, and it can take derivatives of derivatives of derivatives. It supports reverse-mode differentiation (a.k.a. backpropagation) as well as forward-mode differentiation, and the two can be composed arbitrarily to any order.",
+          "node_type": "group",
+          "title": "JAX - Autograd and XLA (Google)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155518202,
+                "language": "Python",
+                "last_commit": "2023-03-31T22:23:33Z",
+                "owner": "Tencent",
+                "repo": "PocketFlow",
+                "stars": 2908
+              }
+            }
+          ],
+          "description": "PocketFlow is an open-source framework for compressing and accelerating deep learning models with minimal human effort. Deep learning is widely used in various areas, such as computer vision, speech recognition, and natural language translation. However, deep learning models are often computational expensive, which limits further applications on mobile devices with limited computational resources.",
+          "node_type": "group",
+          "title": "PocketFlow (Tencent)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | documentation | paper |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70746484,
+                "language": "Python",
+                "last_commit": "2026-08-24T04:45:14Z",
+                "owner": "apache",
+                "repo": "tvm",
+                "stars": 13680
+              }
+            }
+          ],
+          "description": "TVM is a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends. TVM works with deep learning frameworks to provide end to end compilation to different backends. Checkout the tvm stack homepage for more information.",
+          "node_type": "group",
+          "title": "TVM - End to End Deep Learning Compiler Stack (Amazon)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | paper | blog |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 120494252,
+                "language": "C++",
+                "last_commit": "2023-04-28T21:51:23Z",
+                "owner": "facebookresearch",
+                "repo": "TensorComprehensions",
+                "stars": 1767
+              }
+            }
+          ],
+          "description": "Tensor Comprehensions (TC) is a fully-functional C++ library to automatically synthesize high-performance machine learning kernels using Halide, ISL and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and PyTorch. We provide more details in our paper on arXiv.",
+          "node_type": "group",
+          "title": "Tensor Comprehensions (Facebook)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | paper | blog |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 105281531,
+                "language": "C++",
+                "last_commit": "2024-05-11T13:35:10Z",
+                "owner": "pytorch",
+                "repo": "glow",
+                "stars": 3320
+              }
+            }
+          ],
+          "description": "Glow is a machine learning compiler that accelerates the performance of deep learning frameworks on different hardware platforms. It enables the ecosystem of hardware developers and researchers to focus on building next gen hardware accelerators that can be supported by deep learning frameworks like PyTorch.",
+          "node_type": "group",
+          "title": "Glow - A community-driven approach to AI infrastructure (Facebook)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "documentation | github | paper |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 98252973,
+                "language": "C++",
+                "last_commit": "2020-10-15T21:54:02Z",
+                "owner": "NervanaSystems",
+                "repo": "ngraph",
+                "stars": 1344
+              }
+            }
+          ],
+          "description": "We are pleased to announce the open sourcing of nGraph, a framework-neutral Deep Neural Network (DNN) model compiler that can target a variety of devices. With nGraph, data scientists can focus on data science rather than worrying about how to adapt their DNN models to train and run efficiently on different devices.",
+          "node_type": "group",
+          "title": "nGraph - A New Open Source Compiler for Deep Learning Systems (Intel)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| homepage",
+              "description": "github | talk | slices |",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 178334746,
+                "language": null,
+                "last_commit": "2021-04-22T22:24:29Z",
+                "owner": "tensorflow",
+                "repo": "mlir",
+                "stars": 1768
+              }
+            }
+          ],
+          "description": "The MLIR project aims to define a common intermediate representation (IR) that will unify the infrastructure required to execute high performance machine learning models in TensorFlow and similar ML frameworks. This project will include the application of HPC techniques, along with integration of search algorithms like reinforcement learning. This project aims to reduce the cost to bring up new hardware, and improve usability for existing TensorFlow users.",
+          "node_type": "group",
+          "title": "MLIR - \"Multi-Level Intermediate Representation\" Compiler Infrastructure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| github",
+              "description": "documentation |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138826968,
+                "language": "C++",
+                "last_commit": "2024-06-17T09:17:33Z",
+                "owner": "XiaoMi",
+                "repo": "mace",
+                "stars": 5046
+              }
+            }
+          ],
+          "description": "MACE (Mobile AI Compute Engine) is a deep learning inference framework optimized for mobile heterogeneous computing platforms. MACE provides tools and documents to help users to deploy deep learning models to mobile phones, tablets, personal computers and IoT devices.",
+          "node_type": "group",
+          "title": "MACE - Mobile AI Compute Engine (XiaoMi)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Rich model formats support",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TensorFlow",
+                  "description": ", Caffe and ONNX model formats are supported.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45717250,
+                    "language": "C++",
+                    "last_commit": "2026-08-24T14:22:47Z",
+                    "owner": "tensorflow",
+                    "repo": "tensorflow",
+                    "stars": 197385
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Components:"
+        }
+      ],
+      "title": "Deployment and Optimizations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| link",
+              "description": "github | materials |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84347956,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-12-26T23:55:45Z",
+                "owner": "dlsys-course",
+                "repo": "dlsys-course.github.io",
+                "stars": 215
+              }
+            }
+          ],
+          "description": "This course will be covering various aspects of deep learning systems, including: basics of deep learning, programming models for expressing machine learning models, automatic differentiation, memory optimization, scheduling, distributed learning, hardware acceleration, domain specific languages, and model serving. Many of these topics intersect with existing research directions in databases, systems and networking, architecture and programming languages. The goal is to offer a comprehensive picture on how deep learning systems works, discuss and execute on possible research opportunities, and build open-source software that will have broad appeal.",
+          "node_type": "group",
+          "title": "CSE 599W Systems for ML (University of Washington)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "| link",
+              "description": "github | materials |",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133175699,
+                "language": "TeX",
+                "last_commit": "2025-11-20T19:11:02Z",
+                "owner": "pooyanjamshidi",
+                "repo": "mls",
+                "stars": 39
+              }
+            }
+          ],
+          "description": "In this course, we will learn the fundamental differences between ML as a technique versus ML as a system in production. A machine learning system involves a significant number of components and it is important that they remain responsive in the face of failure and changes in load. This course covers several strategies to keep ML systems responsive, resilient, and elastic. Machine learning systems are different than other computer systems when it comes to building, testing, deploying, delivering, and evolving. ML systems also have unique challenges when we need to change the architecture or behavior of the system. Therefore, it is essential to learn how to deal with such unique challenges that only may happen when building real-world production-ready ML systems (e.g., performance issues, memory leaking, communication issues, multi-GPU issues, etc). The focus of this course will be primarily on deep learning systems, but the principles will remain similar across all ML systems.",
+          "node_type": "group",
+          "title": "CSCE 790: Machine Learning Systems"
+        }
+      ],
+      "title": "Courses"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T23:34:41.878Z",
+    "last_updated": "2026-08-24T14:24:41.637Z",
     "original_repository": "1duo/awesome-ai-infrastructures",
     "original_repository_id": 158755481,
     "original_repository_sha": "9abd3dc94978d2b1954be3f47e71d98fa5c04f7e",
