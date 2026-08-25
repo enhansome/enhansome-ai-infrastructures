@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T18:25:34Z",
                 "owner": "kubeflow",
                 "repo": "kubeflow",
-                "stars": 15829
+                "stars": 15832
               }
             }
           ],
@@ -146,10 +146,10 @@
                 "archived": false,
                 "id": 136202695,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:52:56Z",
+                "last_commit": "2026-08-25T21:34:02Z",
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 27664
+                "stars": 27679
               }
             }
           ],
@@ -168,10 +168,10 @@
                 "archived": false,
                 "id": 71932349,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:52:42Z",
+                "last_commit": "2026-08-25T22:19:56Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43606
+                "stars": 43611
               }
             }
           ],
@@ -193,7 +193,7 @@
                 "last_commit": "2026-07-26T06:10:31Z",
                 "owner": "Angel-ML",
                 "repo": "angel",
-                "stars": 6786
+                "stars": 6787
               }
             }
           ],
@@ -240,10 +240,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:06:12Z",
+                "last_commit": "2026-08-25T23:32:03Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197613
+                "stars": 197632
               }
             }
           ],
@@ -265,7 +265,7 @@
                 "last_commit": "2022-01-12T19:55:30Z",
                 "owner": "tensorflow",
                 "repo": "swift",
-                "stars": 6121
+                "stars": 6122
               }
             }
           ],
@@ -284,10 +284,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:33:32Z",
+                "last_commit": "2026-08-25T23:30:33Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36212
+                "stars": 36215
               }
             }
           ],
@@ -328,10 +328,10 @@
                 "archived": false,
                 "id": 70746484,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:43:23Z",
+                "last_commit": "2026-08-25T22:51:32Z",
                 "owner": "apache",
                 "repo": "tvm",
-                "stars": 13683
+                "stars": 13688
               }
             }
           ],
@@ -465,10 +465,10 @@
                     "archived": false,
                     "id": 45717250,
                     "language": "C++",
-                    "last_commit": "2026-08-25T06:06:12Z",
+                    "last_commit": "2026-08-25T23:32:03Z",
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 197613
+                    "stars": 197632
                   }
                 }
               ]
@@ -533,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:02.983Z",
+    "last_updated": "2026-08-25T23:36:45.030Z",
     "original_repository": "1duo/awesome-ai-infrastructures",
     "original_repository_id": 158755481,
     "original_repository_sha": "9abd3dc94978d2b1954be3f47e71d98fa5c04f7e",
