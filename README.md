@@ -103,7 +103,7 @@ learning in production.
 
 > Michelangelo, an internal ML-as-a-service platform that democratizes machine learning and makes scaling AI to meet the needs of business as easy as requesting a ride.
 
-> Michelangelo consists of a mix of open source systems and components built in-house. The primary open sourced components used are [HDFS](https://hortonworks.com/apache/hdfs/), [Spark](https://spark.apache.org/), [Samza](http://samza.apache.org/), [Cassandra](http://cassandra.apache.org/), [MLLib](https://spark.apache.org/mllib/), [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,697 | 🐛 419 | 🌐 C++ | 📅 2026-08-26, and [TensorFlow](https://www.tensorflow.org/).
+> Michelangelo consists of a mix of open source systems and components built in-house. The primary open sourced components used are [HDFS](https://hortonworks.com/apache/hdfs/), [Spark](https://spark.apache.org/), [Samza](http://samza.apache.org/), [Cassandra](http://cassandra.apache.org/), [MLLib](https://spark.apache.org/mllib/), [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,698 | 🐛 421 | 🌐 C++ | 📅 2026-08-26, and [TensorFlow](https://www.tensorflow.org/).
 
 \| [**blog**](https://eng.uber.com/michelangelo/) | [**use-cases**](https://eng.uber.com/scaling-michelangelo/) |
 
@@ -283,7 +283,7 @@ learning in production.
 
 > MLflow is an open source platform for managing the end-to-end machine learning lifecycle.
 
-\| [**homepage**](https://mlflow.org/) | [**github**](https://github.com/mlflow/mlflow) ⭐ 27,688 | 🐛 2,076 | 🌐 Python | 📅 2026-08-27 |  [**documentation**](https://mlflow.org/docs/latest/index.html) | [**blog**](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) |
+\| [**homepage**](https://mlflow.org/) | [**github**](https://github.com/mlflow/mlflow) ⭐ 27,690 | 🐛 2,062 | 🌐 Python | 📅 2026-08-27 |  [**documentation**](https://mlflow.org/docs/latest/index.html) | [**blog**](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) |
 
 #### Architecture:
 
@@ -311,7 +311,7 @@ learning in production.
 
 > Ray is a high-performance distributed execution framework targeted at large-scale machine learning and reinforcement learning applications. It achieves scalability and fault tolerance by abstracting the control state of the system in a global control store and keeping all other components stateless. It uses a shared-memory distributed object store to efficiently handle large data through shared memory, and it uses a bottom-up hierarchical scheduling architecture to achieve low-latency and high-throughput scheduling. It uses a lightweight API based on dynamic task graphs and actors to express a wide range of applications in a flexible manner.
 
-\| [**homepage**](https://ray.readthedocs.io/en/latest/) | [**github**](https://github.com/ray-project/ray) ⭐ 43,616 | 🐛 3,535 | 🌐 Python | 📅 2026-08-27 | [**blog**](https://ray-project.github.io/) | [**design overview**](https://ray.readthedocs.io/en/latest/internals-overview.html) | [**paper**](https://arxiv.org/abs/1712.05889) |
+\| [**homepage**](https://ray.readthedocs.io/en/latest/) | [**github**](https://github.com/ray-project/ray) ⭐ 43,619 | 🐛 3,539 | 🌐 Python | 📅 2026-08-27 | [**blog**](https://ray-project.github.io/) | [**design overview**](https://ray.readthedocs.io/en/latest/internals-overview.html) | [**paper**](https://arxiv.org/abs/1712.05889) |
 
 #### Architecture:
 
@@ -437,7 +437,7 @@ learning in production.
 
 > **Improve portability**. Make it relatively easy to write a new backend for novel hardware, at which point a large fraction of TensorFlow programs will run unmodified on that hardware. This is in contrast with the approach of specializing individual monolithic Ops for new hardware, which requires TensorFlow programs to be rewritten to make use of those Ops.
 
-\| [**homepage**](https://www.tensorflow.org/xla/) | [**github**](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler) ⭐ 197,642 | 🐛 2,945 | 🌐 C++ | 📅 2026-08-27 | [**documentation**](https://www.tensorflow.org/xla/overview) | [**blog**](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html) | [**talk**](https://www.youtube.com/watch?time_continue=6\&v=kAOanJczHA0) |
+\| [**homepage**](https://www.tensorflow.org/xla/) | [**github**](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler) ⭐ 197,720 | 🐛 2,942 | 🌐 C++ | 📅 2026-08-27 | [**documentation**](https://www.tensorflow.org/xla/overview) | [**blog**](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html) | [**talk**](https://www.youtube.com/watch?time_continue=6\&v=kAOanJczHA0) |
 
 #### Compilation Process:
 
@@ -468,7 +468,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 ### JAX - Autograd and XLA ([Google](https://www.google.com/about/))
 
 > JAX is [Autograd](https://github.com/hips/autograd) ⭐ 7,523 | 🐛 181 | 🌐 Python | 📅 2026-08-24 and
-> [XLA](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/compiler/xla/g3doc/overview.md) ⭐ 197,642 | 🐛 2,945 | 🌐 C++ | 📅 2026-08-27,
+> [XLA](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/compiler/xla/g3doc/overview.md) ⭐ 197,720 | 🐛 2,942 | 🌐 C++ | 📅 2026-08-27,
 > brought together for high-performance machine learning research.
 > With its updated version of [Autograd](https://github.com/hips/autograd) ⭐ 7,523 | 🐛 181 | 🌐 Python | 📅 2026-08-24,
 > JAX can automatically differentiate native
@@ -478,7 +478,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 > as well as forward-mode differentiation, and the two can be composed arbitrarily
 > to any order.
 
-\| [**github**](https://github.com/google/jax) ⭐ 36,215 | 🐛 2,487 | 🌐 Python | 📅 2026-08-27 |
+\| [**github**](https://github.com/google/jax) ⭐ 36,216 | 🐛 2,485 | 🌐 Python | 📅 2026-08-27 |
 
 ### How It Works:
 
@@ -496,7 +496,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 
 > TVM is a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends. TVM works with deep learning frameworks to provide end to end compilation to different backends. Checkout the tvm stack homepage for more information.
 
-\| [**homepage**](https://tvm.ai/) | [**github**](https://github.com/dmlc/tvm) ⭐ 13,691 | 🐛 246 | 🌐 Python | 📅 2026-08-26 | [**documentation**](https://docs.tvm.ai/) | [**paper**](https://arxiv.org/abs/1802.04799) |
+\| [**homepage**](https://tvm.ai/) | [**github**](https://github.com/dmlc/tvm) ⭐ 13,692 | 🐛 252 | 🌐 Python | 📅 2026-08-26 | [**documentation**](https://docs.tvm.ai/) | [**paper**](https://arxiv.org/abs/1802.04799) |
 
 #### Architecture:
 
@@ -518,7 +518,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 
 ### Tensor Comprehensions ([Facebook](https://www.facebook.com/))
 
-> Tensor Comprehensions (TC) is a fully-functional C++ library to *automatically* synthesize high-performance machine learning kernels using [Halide](https://github.com/halide/Halide) ⭐ 6,591 | 🐛 770 | 🌐 C++ | 📅 2026-08-26, [ISL](http://isl.gforge.inria.fr/) and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and PyTorch. We provide more details in our paper on [arXiv](https://arxiv.org/abs/1802.04730).
+> Tensor Comprehensions (TC) is a fully-functional C++ library to *automatically* synthesize high-performance machine learning kernels using [Halide](https://github.com/halide/Halide) ⭐ 6,592 | 🐛 770 | 🌐 C++ | 📅 2026-08-27, [ISL](http://isl.gforge.inria.fr/) and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and PyTorch. We provide more details in our paper on [arXiv](https://arxiv.org/abs/1802.04730).
 
 \| [**homepage**](https://facebookresearch.github.io/TensorComprehensions/) | [**github**](https://github.com/facebookresearch/TensorComprehensions) ⚠️ Archived | [**paper**](https://arxiv.org/abs/1802.04730) | [**blog**](https://research.fb.com/announcing-tensor-comprehensions/) |
 
@@ -662,9 +662,9 @@ Global improvements to TensorFlow infrastructure, SSA-based designs to generaliz
     chips. CPU runtime is also compatible with most POSIX systems and
     architectures with limited performance.
 * Rich model formats support
-  * [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,642 | 🐛 2,945 | 🌐 C++ | 📅 2026-08-27,
-    [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,595 | 🌐 C++ | 📅 2024-07-31 and
-    [ONNX](https://github.com/onnx/onnx) ⭐ 21,366 | 🐛 288 | 🌐 Python | 📅 2026-08-27 model formats are supported.
+  * [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,720 | 🐛 2,942 | 🌐 C++ | 📅 2026-08-27,
+    [Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,598 | 🌐 C++ | 📅 2024-07-31 and
+    [ONNX](https://github.com/onnx/onnx) ⭐ 21,370 | 🐛 287 | 🌐 Python | 📅 2026-08-27 model formats are supported.
 
 ### AMC - AutoML for Model Compression engine
 
