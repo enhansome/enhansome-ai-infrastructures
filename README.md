@@ -59,7 +59,7 @@ learning in production.
 
 > Kubeflow started as an open sourcing of the way Google ran [TensorFlow](https://www.tensorflow.org/) internally, based on a pipeline called TensorFlow Extended.
 
-\| [**homepage**](https://www.kubeflow.org/) | [**github**](https://github.com/kubeflow/kubeflow) ⭐ 15,842 | 🐛 0 | 📅 2026-08-21 | [**documentation**](https://www.kubeflow.org/docs/about/kubeflow/) |
+\| [**homepage**](https://www.kubeflow.org/) | [**github**](https://github.com/kubeflow/kubeflow) ⭐ 15,846 | 🐛 0 | 📅 2026-08-21 | [**documentation**](https://www.kubeflow.org/docs/about/kubeflow/) |
 [**blog**](https://kubernetes.io/blog/2017/12/introducing-kubeflow-composable/) |
 [**talk**](https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/detail/69041) | [**slices**](https://cdn.oreillystatic.com/en/assets/1/event/278/Kubeflow%20explained_%20Portable%20machine%20learning%20on%20Kubernetes%20Presentation.pdf) |
 
@@ -103,7 +103,7 @@ learning in production.
 
 > Michelangelo, an internal ML-as-a-service platform that democratizes machine learning and makes scaling AI to meet the needs of business as easy as requesting a ride.
 
-> Michelangelo consists of a mix of open source systems and components built in-house. The primary open sourced components used are [HDFS](https://hortonworks.com/apache/hdfs/), [Spark](https://spark.apache.org/), [Samza](http://samza.apache.org/), [Cassandra](http://cassandra.apache.org/), [MLLib](https://spark.apache.org/mllib/), [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,724 | 🐛 429 | 🌐 C++ | 📅 2026-09-02, and [TensorFlow](https://www.tensorflow.org/).
+> Michelangelo consists of a mix of open source systems and components built in-house. The primary open sourced components used are [HDFS](https://hortonworks.com/apache/hdfs/), [Spark](https://spark.apache.org/), [Samza](http://samza.apache.org/), [Cassandra](http://cassandra.apache.org/), [MLLib](https://spark.apache.org/mllib/), [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,730 | 🐛 428 | 🌐 C++ | 📅 2026-09-03, and [TensorFlow](https://www.tensorflow.org/).
 
 \| [**blog**](https://eng.uber.com/michelangelo/) | [**use-cases**](https://eng.uber.com/scaling-michelangelo/) |
 
@@ -229,7 +229,7 @@ learning in production.
 
 > TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark. It was developed with a focus on enhancing machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity and reuse.
 
-\| [**homepage**](https://transmogrif.ai/) | [**github**](https://github.com/salesforce/TransmogrifAI) ⭐ 2,277 | 🐛 46 | 🌐 Scala | 📅 2026-06-02 | [**documentation**](https://docs.transmogrif.ai/en/stable/) | [**blog**](https://engineering.salesforce.com/open-sourcing-transmogrifai-4e5d0e098da2) |
+\| [**homepage**](https://transmogrif.ai/) | [**github**](https://github.com/salesforce/TransmogrifAI) ⭐ 2,276 | 🐛 46 | 🌐 Scala | 📅 2026-06-02 | [**documentation**](https://docs.transmogrif.ai/en/stable/) | [**blog**](https://engineering.salesforce.com/open-sourcing-transmogrifai-4e5d0e098da2) |
 
 #### Architecture:
 
@@ -283,7 +283,7 @@ learning in production.
 
 > MLflow is an open source platform for managing the end-to-end machine learning lifecycle.
 
-\| [**homepage**](https://mlflow.org/) | [**github**](https://github.com/mlflow/mlflow) ⭐ 27,783 | 🐛 2,051 | 🌐 Python | 📅 2026-09-02 |  [**documentation**](https://mlflow.org/docs/latest/index.html) | [**blog**](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) |
+\| [**homepage**](https://mlflow.org/) | [**github**](https://github.com/mlflow/mlflow) ⭐ 27,797 | 🐛 2,066 | 🌐 Python | 📅 2026-09-04 |  [**documentation**](https://mlflow.org/docs/latest/index.html) | [**blog**](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) |
 
 #### Architecture:
 
@@ -311,7 +311,7 @@ learning in production.
 
 > Ray is a high-performance distributed execution framework targeted at large-scale machine learning and reinforcement learning applications. It achieves scalability and fault tolerance by abstracting the control state of the system in a global control store and keeping all other components stateless. It uses a shared-memory distributed object store to efficiently handle large data through shared memory, and it uses a bottom-up hierarchical scheduling architecture to achieve low-latency and high-throughput scheduling. It uses a lightweight API based on dynamic task graphs and actors to express a wide range of applications in a flexible manner.
 
-\| [**homepage**](https://ray.readthedocs.io/en/latest/) | [**github**](https://github.com/ray-project/ray) ⭐ 43,688 | 🐛 3,537 | 🌐 Python | 📅 2026-09-03 | [**blog**](https://ray-project.github.io/) | [**design overview**](https://ray.readthedocs.io/en/latest/internals-overview.html) | [**paper**](https://arxiv.org/abs/1712.05889) |
+\| [**homepage**](https://ray.readthedocs.io/en/latest/) | [**github**](https://github.com/ray-project/ray) ⭐ 43,697 | 🐛 3,552 | 🌐 Python | 📅 2026-09-04 | [**blog**](https://ray-project.github.io/) | [**design overview**](https://ray.readthedocs.io/en/latest/internals-overview.html) | [**paper**](https://arxiv.org/abs/1712.05889) |
 
 #### Architecture:
 
@@ -331,7 +331,7 @@ learning in production.
 
 > With **model-centered** core design concept, Angel partitions parameters of complex models into multiple parameter-server nodes, and implements a variety of machine learning algorithms using efficient model-updating interfaces and functions, as well as flexible consistency model for synchronization. Angel is developed with **Java** and **Scala**. It supports running on **Yarn**. With PS Service abstraction, it supports **Spark** on Angel.
 
-\| [**github**](https://github.com/Angel-ML/angel) ⭐ 6,788 | 🐛 139 | 🌐 Java | 📅 2026-07-26 | [**documentation**](https://github.com/Angel-ML/angel/blob/master/README_en.md) ⭐ 6,788 | 🐛 139 | 🌐 Java | 📅 2026-07-26 | [**paper**](http://net.pku.edu.cn/~cuibin/Papers/2017NSRangel.pdf) |
+\| [**github**](https://github.com/Angel-ML/angel) ⭐ 6,787 | 🐛 139 | 🌐 Java | 📅 2026-07-26 | [**documentation**](https://github.com/Angel-ML/angel/blob/master/README_en.md) ⭐ 6,787 | 🐛 139 | 🌐 Java | 📅 2026-07-26 | [**paper**](http://net.pku.edu.cn/~cuibin/Papers/2017NSRangel.pdf) |
 
 #### Architecture:
 
@@ -437,7 +437,7 @@ learning in production.
 
 > **Improve portability**. Make it relatively easy to write a new backend for novel hardware, at which point a large fraction of TensorFlow programs will run unmodified on that hardware. This is in contrast with the approach of specializing individual monolithic Ops for new hardware, which requires TensorFlow programs to be rewritten to make use of those Ops.
 
-\| [**homepage**](https://www.tensorflow.org/xla/) | [**github**](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler) ⭐ 198,363 | 🐛 3,020 | 🌐 C++ | 📅 2026-09-03 | [**documentation**](https://www.tensorflow.org/xla/overview) | [**blog**](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html) | [**talk**](https://www.youtube.com/watch?time_continue=6\&v=kAOanJczHA0) |
+\| [**homepage**](https://www.tensorflow.org/xla/) | [**github**](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler) ⭐ 198,793 | 🐛 3,064 | 🌐 C++ | 📅 2026-09-04 | [**documentation**](https://www.tensorflow.org/xla/overview) | [**blog**](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html) | [**talk**](https://www.youtube.com/watch?time_continue=6\&v=kAOanJczHA0) |
 
 #### Compilation Process:
 
@@ -468,7 +468,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 ### JAX - Autograd and XLA ([Google](https://www.google.com/about/))
 
 > JAX is [Autograd](https://github.com/hips/autograd) ⭐ 7,525 | 🐛 181 | 🌐 Python | 📅 2026-09-02 and
-> [XLA](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/compiler/xla/g3doc/overview.md) ⭐ 198,363 | 🐛 3,020 | 🌐 C++ | 📅 2026-09-03,
+> [XLA](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/compiler/xla/g3doc/overview.md) ⭐ 198,793 | 🐛 3,064 | 🌐 C++ | 📅 2026-09-04,
 > brought together for high-performance machine learning research.
 > With its updated version of [Autograd](https://github.com/hips/autograd) ⭐ 7,525 | 🐛 181 | 🌐 Python | 📅 2026-09-02,
 > JAX can automatically differentiate native
@@ -478,7 +478,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 > as well as forward-mode differentiation, and the two can be composed arbitrarily
 > to any order.
 
-\| [**github**](https://github.com/google/jax) ⭐ 36,241 | 🐛 2,512 | 🌐 Python | 📅 2026-09-03 |
+\| [**github**](https://github.com/google/jax) ⭐ 36,251 | 🐛 2,513 | 🌐 Python | 📅 2026-09-04 |
 
 ### How It Works:
 
@@ -496,7 +496,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 
 > TVM is a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends. TVM works with deep learning frameworks to provide end to end compilation to different backends. Checkout the tvm stack homepage for more information.
 
-\| [**homepage**](https://tvm.ai/) | [**github**](https://github.com/dmlc/tvm) ⭐ 13,711 | 🐛 237 | 🌐 Python | 📅 2026-09-02 | [**documentation**](https://docs.tvm.ai/) | [**paper**](https://arxiv.org/abs/1802.04799) |
+\| [**homepage**](https://tvm.ai/) | [**github**](https://github.com/dmlc/tvm) ⭐ 13,712 | 🐛 236 | 🌐 Python | 📅 2026-09-03 | [**documentation**](https://docs.tvm.ai/) | [**paper**](https://arxiv.org/abs/1802.04799) |
 
 #### Architecture:
 
@@ -518,7 +518,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 
 ### Tensor Comprehensions ([Facebook](https://www.facebook.com/))
 
-> Tensor Comprehensions (TC) is a fully-functional C++ library to *automatically* synthesize high-performance machine learning kernels using [Halide](https://github.com/halide/Halide) ⭐ 6,595 | 🐛 777 | 🌐 C++ | 📅 2026-09-02, [ISL](http://isl.gforge.inria.fr/) and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and PyTorch. We provide more details in our paper on [arXiv](https://arxiv.org/abs/1802.04730).
+> Tensor Comprehensions (TC) is a fully-functional C++ library to *automatically* synthesize high-performance machine learning kernels using [Halide](https://github.com/halide/Halide) ⭐ 6,596 | 🐛 777 | 🌐 C++ | 📅 2026-09-03, [ISL](http://isl.gforge.inria.fr/) and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and PyTorch. We provide more details in our paper on [arXiv](https://arxiv.org/abs/1802.04730).
 
 \| [**homepage**](https://facebookresearch.github.io/TensorComprehensions/) | [**github**](https://github.com/facebookresearch/TensorComprehensions) ⚠️ Archived | [**paper**](https://arxiv.org/abs/1802.04730) | [**blog**](https://research.fb.com/announcing-tensor-comprehensions/) |
 
@@ -662,9 +662,9 @@ Global improvements to TensorFlow infrastructure, SSA-based designs to generaliz
     chips. CPU runtime is also compatible with most POSIX systems and
     architectures with limited performance.
 * Rich model formats support
-  * [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 198,363 | 🐛 3,020 | 🌐 C++ | 📅 2026-09-03,
-    [Caffe](https://github.com/BVLC/caffe) ⭐ 34,554 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 and
-    [ONNX](https://github.com/onnx/onnx) ⭐ 21,402 | 🐛 233 | 🌐 Python | 📅 2026-09-03 model formats are supported.
+  * [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 198,793 | 🐛 3,064 | 🌐 C++ | 📅 2026-09-04,
+    [Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 and
+    [ONNX](https://github.com/onnx/onnx) ⭐ 21,410 | 🐛 229 | 🌐 Python | 📅 2026-09-03 model formats are supported.
 
 ### AMC - AutoML for Model Compression engine
 
@@ -802,4 +802,4 @@ Major milestones for "[ImageNet](http://www.image-net.org/) in X nanoseconds" :r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
