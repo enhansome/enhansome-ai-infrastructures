@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "kubeflow",
                 "repo": "kubeflow",
-                "stars": 15890,
+                "stars": 15894,
                 "topics": [
                   "agentic-ai",
                   "ai",
@@ -145,7 +145,7 @@
                 "open_issues": 46,
                 "owner": "salesforce",
                 "repo": "TransmogrifAI",
-                "stars": 2276,
+                "stars": 2277,
                 "topics": [
                   "ai",
                   "automated-machine-learning",
@@ -194,7 +194,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14364,
+                "stars": 14366,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -277,11 +277,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T01:51:19Z",
-                "open_issues": 2159,
+                "last_commit": "2026-10-02T01:44:11Z",
+                "open_issues": 2149,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28205,
+                "stars": 28218,
                 "topics": [
                   "agentops",
                   "agents",
@@ -324,11 +324,11 @@
                 "id": 71932349,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T01:07:21Z",
-                "open_issues": 3540,
+                "last_commit": "2026-10-02T01:02:47Z",
+                "open_issues": 3531,
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43955,
+                "stars": 43962,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -377,7 +377,7 @@
                 "open_issues": 142,
                 "owner": "Angel-ML",
                 "repo": "angel",
-                "stars": 6793,
+                "stars": 6794,
                 "topics": [
                   "high-dimensional",
                   "machine-learning",
@@ -444,11 +444,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T02:07:25Z",
-                "open_issues": 3218,
+                "last_commit": "2026-10-02T01:58:10Z",
+                "open_issues": 3236,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200645,
+                "stars": 200660,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -513,11 +513,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T01:14:25Z",
-                "open_issues": 2614,
+                "last_commit": "2026-10-02T02:05:19Z",
+                "open_issues": 2632,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36367,
+                "stars": 36370,
                 "topics": [
                   "jax"
                 ]
@@ -547,7 +547,7 @@
                 "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "PocketFlow",
-                "stars": 2910,
+                "stars": 2912,
                 "topics": [
                   "automl",
                   "computer-vision",
@@ -577,11 +577,11 @@
                 "id": 70746484,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T22:36:58Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-02T02:01:51Z",
+                "open_issues": 295,
                 "owner": "apache",
                 "repo": "tvm",
-                "stars": 13792,
+                "stars": 13793,
                 "topics": [
                   "compiler",
                   "deep-learning",
@@ -623,7 +623,7 @@
                 "open_issues": 90,
                 "owner": "facebookresearch",
                 "repo": "TensorComprehensions",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "domain-specific-language",
                   "machine-learning"
@@ -787,11 +787,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T02:07:25Z",
-                    "open_issues": 3218,
+                    "last_commit": "2026-10-02T01:58:10Z",
+                    "open_issues": 3236,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 200645,
+                    "stars": 200660,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:08:32.838Z",
+    "last_updated": "2026-10-02T02:14:27.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Infrastructures™ for Machine Learning Training/Inference in Production.",
