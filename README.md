@@ -59,7 +59,7 @@ learning in production.
 
 > Kubeflow started as an open sourcing of the way Google ran [TensorFlow](https://www.tensorflow.org/) internally, based on a pipeline called TensorFlow Extended.
 
-\| [**homepage**](https://www.kubeflow.org/) | [**github**](https://github.com/kubeflow/kubeflow) ⭐ 15,898 | 🐛 1 | 📅 2026-09-30 | [**documentation**](https://www.kubeflow.org/docs/about/kubeflow/) |
+\| [**homepage**](https://www.kubeflow.org/) | [**github**](https://github.com/kubeflow/kubeflow) ⭐ 15,899 | 🐛 1 | 📅 2026-09-30 | [**documentation**](https://www.kubeflow.org/docs/about/kubeflow/) |
 [**blog**](https://kubernetes.io/blog/2017/12/introducing-kubeflow-composable/) |
 [**talk**](https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/detail/69041) | [**slices**](https://cdn.oreillystatic.com/en/assets/1/event/278/Kubeflow%20explained_%20Portable%20machine%20learning%20on%20Kubernetes%20Presentation.pdf) |
 
@@ -103,7 +103,7 @@ learning in production.
 
 > Michelangelo, an internal ML-as-a-service platform that democratizes machine learning and makes scaling AI to meet the needs of business as easy as requesting a ride.
 
-> Michelangelo consists of a mix of open source systems and components built in-house. The primary open sourced components used are [HDFS](https://hortonworks.com/apache/hdfs/), [Spark](https://spark.apache.org/), [Samza](http://samza.apache.org/), [Cassandra](http://cassandra.apache.org/), [MLLib](https://spark.apache.org/mllib/), [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,847 | 🐛 454 | 🌐 C++ | 📅 2026-10-10, and [TensorFlow](https://www.tensorflow.org/).
+> Michelangelo consists of a mix of open source systems and components built in-house. The primary open sourced components used are [HDFS](https://hortonworks.com/apache/hdfs/), [Spark](https://spark.apache.org/), [Samza](http://samza.apache.org/), [Cassandra](http://cassandra.apache.org/), [MLLib](https://spark.apache.org/mllib/), [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,851 | 🐛 456 | 🌐 C++ | 📅 2026-10-11, and [TensorFlow](https://www.tensorflow.org/).
 
 \| [**blog**](https://eng.uber.com/michelangelo/) | [**use-cases**](https://eng.uber.com/scaling-michelangelo/) |
 
@@ -283,7 +283,7 @@ learning in production.
 
 > MLflow is an open source platform for managing the end-to-end machine learning lifecycle.
 
-\| [**homepage**](https://mlflow.org/) | [**github**](https://github.com/mlflow/mlflow) ⭐ 28,336 | 🐛 2,191 | 🌐 Python | 📅 2026-10-11 |  [**documentation**](https://mlflow.org/docs/latest/index.html) | [**blog**](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) |
+\| [**homepage**](https://mlflow.org/) | [**github**](https://github.com/mlflow/mlflow) ⭐ 28,347 | 🐛 2,194 | 🌐 Python | 📅 2026-10-12 |  [**documentation**](https://mlflow.org/docs/latest/index.html) | [**blog**](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) |
 
 #### Architecture:
 
@@ -311,7 +311,7 @@ learning in production.
 
 > Ray is a high-performance distributed execution framework targeted at large-scale machine learning and reinforcement learning applications. It achieves scalability and fault tolerance by abstracting the control state of the system in a global control store and keeping all other components stateless. It uses a shared-memory distributed object store to efficiently handle large data through shared memory, and it uses a bottom-up hierarchical scheduling architecture to achieve low-latency and high-throughput scheduling. It uses a lightweight API based on dynamic task graphs and actors to express a wide range of applications in a flexible manner.
 
-\| [**homepage**](https://ray.readthedocs.io/en/latest/) | [**github**](https://github.com/ray-project/ray) ⭐ 44,004 | 🐛 3,555 | 🌐 Python | 📅 2026-10-10 | [**blog**](https://ray-project.github.io/) | [**design overview**](https://ray.readthedocs.io/en/latest/internals-overview.html) | [**paper**](https://arxiv.org/abs/1712.05889) |
+\| [**homepage**](https://ray.readthedocs.io/en/latest/) | [**github**](https://github.com/ray-project/ray) ⭐ 44,007 | 🐛 3,558 | 🌐 Python | 📅 2026-10-11 | [**blog**](https://ray-project.github.io/) | [**design overview**](https://ray.readthedocs.io/en/latest/internals-overview.html) | [**paper**](https://arxiv.org/abs/1712.05889) |
 
 #### Architecture:
 
@@ -437,7 +437,7 @@ learning in production.
 
 > **Improve portability**. Make it relatively easy to write a new backend for novel hardware, at which point a large fraction of TensorFlow programs will run unmodified on that hardware. This is in contrast with the approach of specializing individual monolithic Ops for new hardware, which requires TensorFlow programs to be rewritten to make use of those Ops.
 
-\| [**homepage**](https://www.tensorflow.org/xla/) | [**github**](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler) ⭐ 200,732 | 🐛 3,315 | 🌐 C++ | 📅 2026-10-11 | [**documentation**](https://www.tensorflow.org/xla/overview) | [**blog**](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html) | [**talk**](https://www.youtube.com/watch?time_continue=6\&v=kAOanJczHA0) |
+\| [**homepage**](https://www.tensorflow.org/xla/) | [**github**](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/compiler) ⭐ 200,872 | 🐛 3,392 | 🌐 C++ | 📅 2026-10-12 | [**documentation**](https://www.tensorflow.org/xla/overview) | [**blog**](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html) | [**talk**](https://www.youtube.com/watch?time_continue=6\&v=kAOanJczHA0) |
 
 #### Compilation Process:
 
@@ -468,7 +468,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 ### JAX - Autograd and XLA ([Google](https://www.google.com/about/))
 
 > JAX is [Autograd](https://github.com/hips/autograd) ⭐ 7,539 | 🐛 192 | 🌐 Python | 📅 2026-10-06 and
-> [XLA](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/compiler/xla/g3doc/overview.md) ⭐ 200,732 | 🐛 3,315 | 🌐 C++ | 📅 2026-10-11,
+> [XLA](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/compiler/xla/g3doc/overview.md) ⭐ 200,872 | 🐛 3,392 | 🌐 C++ | 📅 2026-10-12,
 > brought together for high-performance machine learning research.
 > With its updated version of [Autograd](https://github.com/hips/autograd) ⭐ 7,539 | 🐛 192 | 🌐 Python | 📅 2026-10-06,
 > JAX can automatically differentiate native
@@ -478,7 +478,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 > as well as forward-mode differentiation, and the two can be composed arbitrarily
 > to any order.
 
-\| [**github**](https://github.com/google/jax) ⭐ 36,404 | 🐛 2,594 | 🌐 Python | 📅 2026-10-10 |
+\| [**github**](https://github.com/google/jax) ⭐ 36,407 | 🐛 2,593 | 🌐 Python | 📅 2026-10-12 |
 
 ### How It Works:
 
@@ -496,7 +496,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 
 > TVM is a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends. TVM works with deep learning frameworks to provide end to end compilation to different backends. Checkout the tvm stack homepage for more information.
 
-\| [**homepage**](https://tvm.ai/) | [**github**](https://github.com/dmlc/tvm) ⭐ 13,821 | 🐛 328 | 🌐 Python | 📅 2026-10-10 | [**documentation**](https://docs.tvm.ai/) | [**paper**](https://arxiv.org/abs/1802.04799) |
+\| [**homepage**](https://tvm.ai/) | [**github**](https://github.com/dmlc/tvm) ⭐ 13,822 | 🐛 334 | 🌐 Python | 📅 2026-10-12 | [**documentation**](https://docs.tvm.ai/) | [**paper**](https://arxiv.org/abs/1802.04799) |
 
 #### Architecture:
 
@@ -518,7 +518,7 @@ Related project - DLVM (Modern Compiler Infrastructure for Deep Learning Systems
 
 ### Tensor Comprehensions ([Facebook](https://www.facebook.com/))
 
-> Tensor Comprehensions (TC) is a fully-functional C++ library to *automatically* synthesize high-performance machine learning kernels using [Halide](https://github.com/halide/Halide) ⭐ 6,619 | 🐛 816 | 🌐 C++ | 📅 2026-10-10, [ISL](http://isl.gforge.inria.fr/) and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and PyTorch. We provide more details in our paper on [arXiv](https://arxiv.org/abs/1802.04730).
+> Tensor Comprehensions (TC) is a fully-functional C++ library to *automatically* synthesize high-performance machine learning kernels using [Halide](https://github.com/halide/Halide) ⭐ 6,619 | 🐛 817 | 🌐 C++ | 📅 2026-10-10, [ISL](http://isl.gforge.inria.fr/) and NVRTC or LLVM. TC additionally provides basic integration with Caffe2 and PyTorch. We provide more details in our paper on [arXiv](https://arxiv.org/abs/1802.04730).
 
 \| [**homepage**](https://facebookresearch.github.io/TensorComprehensions/) | [**github**](https://github.com/facebookresearch/TensorComprehensions) ⚠️ Archived | [**paper**](https://arxiv.org/abs/1802.04730) | [**blog**](https://research.fb.com/announcing-tensor-comprehensions/) |
 
@@ -662,9 +662,9 @@ Global improvements to TensorFlow infrastructure, SSA-based designs to generaliz
     chips. CPU runtime is also compatible with most POSIX systems and
     architectures with limited performance.
 * Rich model formats support
-  * [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 200,732 | 🐛 3,315 | 🌐 C++ | 📅 2026-10-11,
-    [Caffe](https://github.com/BVLC/caffe) ⭐ 34,548 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 and
-    [ONNX](https://github.com/onnx/onnx) ⭐ 21,575 | 🐛 256 | 🌐 Python | 📅 2026-10-11 model formats are supported.
+  * [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 200,872 | 🐛 3,392 | 🌐 C++ | 📅 2026-10-12,
+    [Caffe](https://github.com/BVLC/caffe) ⭐ 34,549 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 and
+    [ONNX](https://github.com/onnx/onnx) ⭐ 21,578 | 🐛 258 | 🌐 Python | 📅 2026-10-11 model formats are supported.
 
 ### AMC - AutoML for Model Compression engine
 
@@ -802,4 +802,4 @@ Major milestones for "[ImageNet](http://www.image-net.org/) in X nanoseconds" :r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
