@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "kubeflow",
                 "repo": "kubeflow",
-                "stars": 15951,
+                "stars": 15953,
                 "topics": [
                   "agentic-ai",
                   "ai",
@@ -46,53 +46,6 @@
           "description": "The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Our goal is not to recreate other services, but to provide a straightforward way to deploy best-of-breed open-source systems for ML to diverse infrastructures. Anywhere you are running Kubernetes, you should be able to run Kubeflow.\nKubeflow started as an open sourcing of the way Google ran TensorFlow internally, based on a pipeline called TensorFlow Extended.",
           "node_type": "group",
           "title": "Kubeflow - The Machine Learning Toolkit for Kubernetes (Google)"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "| blog",
-              "description": "github |",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Fabric for Deep Learning (FfDL, pronounced fiddle) is a Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes",
-                "homepage": "https://developer.ibm.com/code/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/",
-                "id": 120658002,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2026-01-29T17:14:34Z",
-                "open_issues": 43,
-                "owner": "IBM",
-                "repo": "FfDL",
-                "stars": 690,
-                "topics": [
-                  "ai",
-                  "artificial-intelligence",
-                  "caffe",
-                  "deep-learning",
-                  "deep-neural-networks",
-                  "deeplearning",
-                  "ibm-research-ai",
-                  "jupyter",
-                  "keras",
-                  "kubernetes-cluster",
-                  "machine-learning",
-                  "ml",
-                  "model",
-                  "python",
-                  "pytorch",
-                  "storage",
-                  "tensorflow",
-                  "watson"
-                ]
-              },
-              "first_seen": "2026-08-28T06:55:46.553Z"
-            }
-          ],
-          "description": "Deep learning frameworks such as TensorFlow, PyTorch, Caffe, Torch, Theano, and MXNet have contributed to the popularity of deep learning by reducing the effort and skills needed to design, train, and use deep learning models. Fabric for Deep Learning (FfDL, pronounced “fiddle”) provides a consistent way to run these deep-learning frameworks as a service on Kubernetes.",
-          "node_type": "group",
-          "title": "FfDL - Fabric for Deep Learning (IBM)"
         },
         {
           "children": [
@@ -194,7 +147,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14364,
+                "stars": 14363,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -243,7 +196,7 @@
                 "open_issues": 161,
                 "owner": "keras-team",
                 "repo": "autokeras",
-                "stars": 9342,
+                "stars": 9341,
                 "topics": [
                   "autodl",
                   "automated-machine-learning",
@@ -277,11 +230,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T02:55:15Z",
-                "open_issues": 2187,
+                "last_commit": "2026-11-07T02:44:12Z",
+                "open_issues": 2189,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28695,
+                "stars": 28706,
                 "topics": [
                   "agentops",
                   "agents",
@@ -324,11 +277,11 @@
                 "id": 71932349,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T03:23:18Z",
-                "open_issues": 3718,
+                "last_commit": "2026-11-07T02:40:39Z",
+                "open_issues": 3720,
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 44213,
+                "stars": 44225,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -374,7 +327,7 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T06:05:34Z",
-                "open_issues": 143,
+                "open_issues": 142,
                 "owner": "Angel-ML",
                 "repo": "angel",
                 "stars": 6795,
@@ -444,11 +397,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T03:25:13Z",
-                "open_issues": 3508,
+                "last_commit": "2026-11-07T02:42:34Z",
+                "open_issues": 3496,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201318,
+                "stars": 201367,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -513,8 +466,8 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T01:13:41Z",
-                "open_issues": 2572,
+                "last_commit": "2026-11-07T02:44:41Z",
+                "open_issues": 2578,
                 "owner": "jax-ml",
                 "repo": "jax",
                 "stars": 36582,
@@ -577,7 +530,7 @@
                 "id": 70746484,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T08:03:13Z",
+                "last_commit": "2026-11-06T12:33:50Z",
                 "open_issues": 464,
                 "owner": "apache",
                 "repo": "tvm",
@@ -751,7 +704,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5056,
+                "stars": 5055,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -787,11 +740,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T03:25:13Z",
-                    "open_issues": 3508,
+                    "last_commit": "2026-11-07T02:42:34Z",
+                    "open_issues": 3496,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 201318,
+                    "stars": 201367,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -888,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:25:27.568Z",
+    "last_updated": "2026-11-07T02:46:52.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Infrastructures™ for Machine Learning Training/Inference in Production.",
