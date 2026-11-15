@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "kubeflow",
                 "repo": "kubeflow",
-                "stars": 15962,
+                "stars": 15964,
                 "topics": [
                   "agentic-ai",
                   "ai",
@@ -98,7 +98,7 @@
                 "open_issues": 46,
                 "owner": "salesforce",
                 "repo": "TransmogrifAI",
-                "stars": 2281,
+                "stars": 2280,
                 "topics": [
                   "ai",
                   "automated-machine-learning",
@@ -230,11 +230,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T00:15:17Z",
-                "open_issues": 2218,
+                "last_commit": "2026-11-15T01:57:09Z",
+                "open_issues": 2219,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28797,
+                "stars": 28815,
                 "topics": [
                   "agentops",
                   "agents",
@@ -277,11 +277,11 @@
                 "id": 71932349,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T03:02:24Z",
-                "open_issues": 3777,
+                "last_commit": "2026-11-15T02:15:23Z",
+                "open_issues": 3787,
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 44285,
+                "stars": 44289,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -397,11 +397,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T02:51:41Z",
-                "open_issues": 3429,
+                "last_commit": "2026-11-15T02:07:33Z",
+                "open_issues": 3457,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201592,
+                "stars": 201613,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -438,7 +438,7 @@
                 "open_issues": 37,
                 "owner": "tensorflow",
                 "repo": "swift",
-                "stars": 6114,
+                "stars": 6113,
                 "topics": [
                   "differentiable-programming",
                   "machine-learning",
@@ -466,11 +466,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T02:07:42Z",
-                "open_issues": 2589,
+                "last_commit": "2026-11-14T23:18:01Z",
+                "open_issues": 2599,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36621,
+                "stars": 36625,
                 "topics": [
                   "jax"
                 ]
@@ -576,7 +576,7 @@
                 "open_issues": 90,
                 "owner": "facebookresearch",
                 "repo": "TensorComprehensions",
-                "stars": 1767,
+                "stars": 1766,
                 "topics": [
                   "domain-specific-language",
                   "machine-learning"
@@ -740,11 +740,11 @@
                     "id": 45717250,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T02:51:41Z",
-                    "open_issues": 3429,
+                    "last_commit": "2026-11-15T02:07:33Z",
+                    "open_issues": 3457,
                     "owner": "tensorflow",
                     "repo": "tensorflow",
-                    "stars": 201592,
+                    "stars": 201613,
                     "topics": [
                       "deep-learning",
                       "deep-neural-networks",
@@ -841,7 +841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:12:53.403Z",
+    "last_updated": "2026-11-15T02:38:17.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Infrastructures™ for Machine Learning Training/Inference in Production.",
